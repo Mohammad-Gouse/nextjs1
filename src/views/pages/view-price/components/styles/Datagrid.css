@@ -1,0 +1,19 @@
+.css-d9c359-MuiButtonBase-root-MuiToggleButton-root.Mui-selected{
+    color: white;
+    background-color: black;
+}
+.css-d9c359-MuiButtonBase-root-MuiToggleButton-root.Mui-selected:hover{
+    background-color: black;
+}
+.Asset-Button.Mui-selected:hover{
+    color: white;
+    background-color: black;
+}
+.Asset-Button.selected-asset{
+    color: white;
+    background-color: black;
+}
+
+.Asset-Button{
+    height: 4vh;
+}
